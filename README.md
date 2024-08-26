@@ -10,6 +10,6 @@ I’m a 28-year-old software developer with two years of experience in C#. I hav
 ### What You’ll Find Here
 - **Learning**: I’ll be sharing everything from basic C# to more complex .NET projects, tracking my progress along the way.
 - **Growing Together**: With two years of experience, I’m still learning, and I’m eager to share that journey with anyone interested in following along or collaborating.
-- **Let’s Connect**: Whether you’re new to coding or have been at it for a while, feel free to join me as I explore and learn more about C# and .NET.
+- **Let’s Connect**: Whether you’re new to coding or have been at it for a while, feel free to join me.
 
-Thanks for stopping by my profile! Looking forward to connecting and learning together.
+Thanks for visiting my profile!
